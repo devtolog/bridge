@@ -10,7 +10,7 @@ This project is powered by several amazing open-source libraries. We would like 
 
 --------------------------------- 
 
-libgc: 8.2.12
+libgc: 8.3.0
 
 Copyright (c) 1988-1989 Hans-J. Boehm, Alan J. Demers
 Copyright (c) 1991-1996 by Xerox Corporation.  All rights reserved.
@@ -48,7 +48,7 @@ the collector may require the resulting code to be covered by the GPL.
 ------------------------------------ LLVM
 
 
-LLVM : 22.1.4
+LLVM : 22.1.5
 
 ==============================================================================
 The LLVM Project is under the Apache License v2.0 with LLVM Exceptions:
